@@ -39,7 +39,7 @@ function App() {
                 break;
             case 'c':
                 resultText = "Novio perfecto";
-                resultImageUrl = "https://pruebas.masaltos.com/img/cms/novio.png";
+                resultImageUrl = "https://pruebas.masaltos.com/img/cms/novioperfecto.png";
                 break;
             case 'd':
                 resultText = "Nice man";
